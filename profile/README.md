@@ -10,15 +10,15 @@ Our vision is to streamline cloud node and instance management, making it user-f
 
 ### Supporting Our Team
 
-If you're a technical expert in cloud infrastructure, blockchain, or related fields, we welcome your expertise. Join our team to help shape the future of t3infra Cloud. Contact us on [email@example.com] to discuss potential collaboration.
+If you're a technical expert in cloud infrastructure, blockchain, or related fields, we welcome your expertise. Join our team to help shape the future of t3infra Cloud. Contact us to discuss potential collaboration.
 
 ### Joining as a Collaborator
 
-We're open to collaborating with like-minded individuals and organizations who share our vision. If you're interested in contributing to our projects, please reach out to us on [email@example.com].
+We're open to collaborating with like-minded individuals and organizations who share our vision. If you're interested in contributing to our projects, please reach out to us.
 
 ### Non-Technical Roles
 
-At t3infra Cloud, we understand that technical skills aren't the only way to contribute. If you have skills in marketing, design, community management, or any other non-technical area, we value your support. Contact us at [email@example.com] to discuss how you can be part of our team.
+At t3infra Cloud, we understand that technical skills aren't the only way to contribute. If you have skills in marketing, design, community management, or any other non-technical area, we value your support. Contact us to discuss how you can be part of our team.
 
 ## Get Involved
 
@@ -26,7 +26,7 @@ Join us in shaping the digital landscape of tomorrow with t3infra Cloud. Explore
 
 ## Contact Us
 
-For inquiries or collaboration opportunities, please contact us at [email@example.com].
+For inquiries or collaboration opportunities, please contact us.
 
 Thank you for your interest in t3infra Cloud. Together, we can make cloud infrastructure management simple and accessible.
 
