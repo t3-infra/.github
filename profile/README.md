@@ -1,6 +1,9 @@
 # Welcome to T3 Infra Cloud
 
 ![patreon_t3infra_banner](https://github.com/t3-infra/.github/assets/78353166/315469ed-41df-490d-9128-ea66cc79652e)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 At  T3 Infra Cloud, we are on a mission to simplify cloud infrastructure management and support the growing blockchain ecosystem. We believe in creating a collaborative and accessible environment where users from various backgrounds can contribute and benefit.
 
