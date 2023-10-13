@@ -1,6 +1,6 @@
 {
   "files": [
-    "README.md"
+    "profile/README.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -15,6 +15,21 @@
       "contributions": [
         "code",
         "test"
+      ]
+    },
+    {
+      "login": "Buffnick31",
+      "name": "Buffnick31",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103003971?v=4",
+      "profile": "https://github.com/Buffnick31",
+      "contributions": [
+        "infra",
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+
       ]
     }
   ],
