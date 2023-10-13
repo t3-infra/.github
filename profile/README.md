@@ -15,7 +15,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mworks-proj"><img src="https://avatars.githubusercontent.com/u/78353166?v=4?s=100" width="100px;" alt="meister"/><br /><sub><b>meister</b></sub></a><br /><a href="https://github.com/t3-infra/.github/commits?author=mworks-proj" title="Code">💻</a> <a href="https://github.com/t3-infra/.github/commits?author=mworks-proj" title="Tests">⚠️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Buffnick31"><img src="https://avatars.githubusercontent.com/u/103003971?v=4?s=100" width="100px;" alt="Buffnick31"/><br /><sub><b>Buffnick31</b></sub></a><br /><a href="#infra-Buffnick31" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/t3-infra/.github/commits?author=Buffnick31" title="Code">💻</a> <a href="#maintenance-Buffnick31" title="Maintenance">🚧</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt="All Contributors"/><br /><sub><b>All Contributors</b></sub></a><br /><a href="#mentoring-all-contributors" title="Mentoring">🧑‍🏫</a> <a href="#maintenance-all-contributors" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
