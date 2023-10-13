@@ -1,6 +1,8 @@
-# Welcome to t3infra Cloud
+# Welcome to T3 Infra Cloud
 
-At t3infra Cloud, we are on a mission to simplify cloud infrastructure management and support the growing blockchain ecosystem. We believe in creating a collaborative and accessible environment where users from various backgrounds can contribute and benefit.
+![patreon_t3infra_banner](https://github.com/t3-infra/.github/assets/78353166/315469ed-41df-490d-9128-ea66cc79652e)
+
+At  T3 Infra Cloud, we are on a mission to simplify cloud infrastructure management and support the growing blockchain ecosystem. We believe in creating a collaborative and accessible environment where users from various backgrounds can contribute and benefit.
 
 ## Our Vision
 
@@ -18,7 +20,7 @@ We're open to collaborating with like-minded individuals and organizations who s
 
 ### Non-Technical Roles
 
-At t3infra Cloud, we understand that technical skills aren't the only way to contribute. If you have skills in marketing, design, community management, or any other non-technical area, we value your support. Contact us to discuss how you can be part of our team.
+At  T3 Infra Cloud, we understand that technical skills aren't the only way to contribute. If you have skills in marketing, design, community management, or any other non-technical area, we value your support. Contact us to discuss how you can be part of our team.
 
 ## Get Involved
 
